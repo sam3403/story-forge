@@ -1,0 +1,23 @@
+# Core Streamlit app framework
+streamlit
+
+# HTTP requests (for OpenRouter API)
+requests
+
+# Environment variable loading (.env file)
+python-dotenv
+
+# PDF generation
+fpdf2
+
+# DOCX / Word document generation
+python-docx
+
+# Text-to-speech (the simple/free one)
+gtts
+
+# Google Gemini API client (multimodal + TTS)
+google-generativeai
+
+# Image handling (PIL / Pillow for opening uploaded images)
+pillow
